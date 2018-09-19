@@ -1,4 +1,4 @@
-# SubOver
+# SubOverx
 ## Note - This project is discontinued. No more updates will be provided! Sorry!
 > But something more awesome will come soon! 
 
